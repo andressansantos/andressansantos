@@ -1,16 +1,27 @@
 ### Hi there 👋
 
-<!--
-**andressansantos/andressansantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" width="400" height="400" src="coloque_o_link_de_uma_foto_ou_gif_aqui">
+## I'm Andressa Santos!
+ 
+Criadora de Conteúdo + Desenvolvedora
 
-Here are some ideas to get you started:
+Sou formada em ADS | Segurança de Redes de Computadores.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Trabalhei como suporte de maquina como autônomo, mas me encontro na atuação de resolução de problemas voltadas a paginas web. Com mais de 10 anos de bagagem em TI, gosto de compartilhar conhecimento. Acredito que a troca nos engrandece.
+
+Desenvolvi meu lado mais criativo e por isso, gosto de ajudar a quem puder, quando o assunto é entrar para área de TI. Por isso, compartilho em minhas redes e ajudo milhares de pessoas a decidir qual melhor caminho a seguir nesse ramo, o qual possui um leque gigante.
+
+Sobre as demais atividades do EMD, conecte-se com a gente aqui no LinkedIn, Instagram e no Youtube.
+
+Instagram | Facebook: @ehmuitodrama
+YouTube: ehmuitodramaa
+
+Company Page EMD: Eh Muito Drama
+ 
+ 
+## About me 
+[![Github Badge](https://github.com/andressansantos/andressansantos)](link_do_seu_perfil_no_github)
+[![Linkedin Badge](https://www.linkedin.com/in/andressa-santosemd/)](link_do_seu_perfil_no_linkedin)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seu_email)](mailto:seu_email)
+ 
+- Thanks for visiting. 
