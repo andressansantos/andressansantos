@@ -1,4 +1,4 @@
-<img align="right" width="400" height="400" src="https://avatars3.githubusercontent.com/u/45522652?s=460&u=88bc559f7e6fb1e9952c56f811fe13585cf6f32f&v=4">
+<img align="right" width="400" height="400" src="https://octodex.github.com/images/kimonotocat.png">
  
 # Bem Vindo!
  
